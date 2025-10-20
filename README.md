@@ -1,16 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Opa! 👋  
-Meu nome é **Caio Mathews**, sou estudante do **primeiro período de Ciência da Computação** na **CESAR School**.  
+Meu nome é **Caio Mathews**, sou estudante do **terceiro período de Ciência da Computação** na **CESAR School**.  
 Sempre fui apaixonado pela área de tecnologia e agora estou me aprofundando cada vez mais!  
 
 ---
 
 ## 🌟 Sobre mim  
 - 🎓 Estudante dedicado em Ciência da Computação.  
-- 🖥️ Linguagens que estudo atualmente: **Python** e **C++**.  
-- 🔧 Ferramentas que utilizo: **VS Code** e **Arduino**.  
-- 🚀 Próximas áreas de estudo: **Django** e **Java**.  
+- 🖥️ Linguagens que estudo atualmente: **Python**,**C** e **Java**.   
 - 🤝 Habilidades pessoais:  
   - Calmo e focado.  
   - Excelente trabalho em equipe.  
@@ -23,14 +21,14 @@ Sempre fui apaixonado pela área de tecnologia e agora estou me aprofundando cad
 **Linguagens de Programação**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)  
+![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
+
 
 **Ferramentas**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=00979D)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
 
-**Tecnologias em foco**  
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)  
 
 ---
 
