@@ -20,7 +20,7 @@ Sempre fui apaixonado pela área de tecnologia e agora estou me aprofundando cad
 
 **Linguagens de Programação**  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)  
+![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)  
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
 
 ### 🔧 Ferramentas de Desenvolvimento
