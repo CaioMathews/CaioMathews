@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Opa! 👋  
-Meu nome é **Caio Mathews**, sou estudante do **4º período de Ciência da Computação** na **CESAR School**.  
+Meu nome é **Caio Mathews**, sou estudante do **5º período de Ciência da Computação** na **CESAR School**.  
 Sempre fui apaixonado pela área de tecnologia e agora estou me aprofundando cada vez mais!  
 
 ---
